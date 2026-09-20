@@ -91,5 +91,3 @@ src/Roller coaster over the grave/
 ## License
 
 Released under the [MIT License](LICENSE.md).
-
-Based on the original Graveyard Roller Coaster project by ShutovKS, used and redistributed under the MIT License.
